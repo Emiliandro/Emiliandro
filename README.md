@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-I'm Emiliandro Firmino, I'm a B. Tech in Digital Games and working as a Mobile Developer since end of 2018. 
+I'm a Brazilian mobile developer, nowadays working as a software developer. My main area of research is the Android Operating System. I graduate in Digital Game Development with experience as a client side game programmer with Unity3D, my previous jobs include full stack developer and internet of vehicles developer.
 
 ##  🌱 I’m currently learning ...
 
-Machine learning and Big Data while while I specialize in Data Science at the State University of Amazonas
+* Software engineering management
+
+* Django
+
+* Leadership
 
 ## 🔭 I’m currently working on ...
 
